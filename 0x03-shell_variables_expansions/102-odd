@@ -1,0 +1,2 @@
+#!/bin/bash
+perm -lne 'printf $.%2==1'
